@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/spaza/coin_dispense/BuildConfig.java
+ com.spaza.coin_dispense.BuildConfig

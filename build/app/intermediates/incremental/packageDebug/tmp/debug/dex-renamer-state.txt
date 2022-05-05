@@ -1,0 +1,4 @@
+#Thu May 05 17:47:25 SAST 2022
+base.0=/home/damian/StudioProjects/coin_dispense/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
